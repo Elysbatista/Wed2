@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eduardo\\Desktop\\BlazorApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5121CA3-E04A-448C-B90F-76B3FD19F916}|BlazorApp3\\BlazorApp3.csproj|c:\\users\\eduardo\\desktop\\blazorapp3\\blazorapp3\\pages\\info.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5121CA3-E04A-448C-B90F-76B3FD19F916}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\pages\\info.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5121CA3-E04A-448C-B90F-76B3FD19F916}|BlazorApp3\\BlazorApp3.csproj|c:\\users\\eduardo\\desktop\\blazorapp3\\blazorapp3\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5121CA3-E04A-448C-B90F-76B3FD19F916}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5121CA3-E04A-448C-B90F-76B3FD19F916}|BlazorApp3\\BlazorApp3.csproj|c:\\users\\eduardo\\desktop\\blazorapp3\\blazorapp3\\pages\\modamatrixcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5121CA3-E04A-448C-B90F-76B3FD19F916}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\pages\\modamatrixcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Info.razor",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\BlazorApp3\\BlazorApp3\\Pages\\Info.razor",
+              "RelativeDocumentMoniker": "BlazorApp3\\Pages\\Info.razor",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\BlazorApp3\\BlazorApp3\\Pages\\Info.razor",
+              "RelativeToolTip": "BlazorApp3\\Pages\\Info.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T06:24:04.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModaMatrixComponent.razor",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\BlazorApp3\\BlazorApp3\\Pages\\ModaMatrixComponent.razor",
+              "RelativeDocumentMoniker": "BlazorApp3\\Pages\\ModaMatrixComponent.razor",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\BlazorApp3\\BlazorApp3\\Pages\\ModaMatrixComponent.razor",
+              "RelativeToolTip": "BlazorApp3\\Pages\\ModaMatrixComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T06:14:55.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\BlazorApp3\\BlazorApp3\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorApp3\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\BlazorApp3\\BlazorApp3\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "BlazorApp3\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwHwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T06:09:21.094Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
